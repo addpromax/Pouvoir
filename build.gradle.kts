@@ -5,7 +5,7 @@ plugins {
     `java-library`
     `maven-publish`
     signing
-    id("io.izzel.taboolib") version "1.56"
+    id("io.izzel.taboolib") version "2.0.2"
     id("org.jetbrains.kotlin.jvm") version "1.5.31"
     id("org.jetbrains.dokka") version "1.5.31"
     id("com.github.johnrengelman.shadow") version "7.0.0"

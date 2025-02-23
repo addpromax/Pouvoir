@@ -75,7 +75,7 @@ taboolib {
             isSkipKotlinRelocate =true
             isSkipKotlin = true
         }
-        taboolib = "6.2.2"
+        taboolib = "6.2.3"
     }
 
     relocate("org.openjdk.nashorn", "com.skillw.nashorn")

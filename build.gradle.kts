@@ -65,7 +65,7 @@ taboolib {
         // NMS
         install( BukkitNMS, BukkitNMSDataSerializer,BukkitNMSItemTag,BukkitNMSUtil)
         // util
-        install(BukkitUI,CommandHelper,BukkitFakeOp,Metrics, BukkitUtil,BukkitNavigation)
+        install(BukkitUtil,BukkitUI,CommandHelper,BukkitFakeOp,Metrics, BukkitUtil,BukkitNavigation)
     }
 
 
